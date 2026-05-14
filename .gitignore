@@ -1,0 +1,40 @@
+# Virtual environment
+customer/
+venv/
+env/
+.venv/
+
+artifacts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data files - optional if dataset is large
+data/raw/
+*.csv
+*.xlsx
+
+# Reports
+*.html
+
+# Model artifacts - optional
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
