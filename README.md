@@ -55,7 +55,7 @@ KMeans clustering was applied to the RFM features after applying log transformat
 
 The number of clusters was selected as:
 
-```text
+text
 k = 4
 
 The project builds RFM-based customer features, segments customers using KMeans clustering, detects unusual customer behavior within each segment using Isolation Forest, and deploys the final system using FastAPI and Gradio.
