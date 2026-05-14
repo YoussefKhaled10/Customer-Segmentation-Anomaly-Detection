@@ -86,3 +86,10 @@ The goal of this project is to transform raw transactional data into a practical
 - Train segment-specific Isolation Forest models for anomaly detection.
 - Build a FastAPI backend for model inference.
 - Build a Gradio UI for user interaction.
+
+
+---
+## Author
+Youssef Khaled
+
+Machine Learning Engineer
